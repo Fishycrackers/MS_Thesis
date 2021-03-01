@@ -1,474 +1,488 @@
-origin, dependency
-13722-android.hardware.power@1.0-impl.so, liblog.so
-13722-android.hardware.power@1.0-impl.so, libhardware.so
-13722-android.hardware.power@1.0-impl.so, libhidlbase.so
-13722-android.hardware.power@1.0-impl.so, libhidltransport.so
-13722-android.hardware.power@1.0-impl.so, libutils.so
-13722-android.hardware.power@1.0-impl.so, android.hardware.power@1.0.so
-13722-android.hardware.power@1.0-impl.so, libc++.so
-13722-android.hardware.power@1.0-impl.so, libc.so
-13722-android.hardware.power@1.0-impl.so, libm.so
-13722-android.hardware.power@1.0-impl.so, libdl.so
-13722-android.hardware.power@1.0-impl.so, android.hardware.power@1.0-impl.so
-13760-power.default.so, liblog.so
-13760-power.default.so, libc++.so
-13760-power.default.so, libc.so
-13760-power.default.so, libm.so
-13760-power.default.so, libdl.so
-13760-power.default.so, power.default.so
-13762-power.universal9610.so, liblog.so
-13762-power.universal9610.so, libcutils.so
-13762-power.universal9610.so, libhardware.so
-13762-power.universal9610.so, libc++.so
-13762-power.universal9610.so, libc.so
-13762-power.universal9610.so, libm.so
-13762-power.universal9610.so, libdl.so
-13762-power.universal9610.so, power.universal9610.so
-13762-power.universal9610.so, __aeabi_unwind_cpp_pr0
-13762-power.universal9610.so, __aeabi_unwind_cpp_pr1
-13762-power.universal9610.so, __aeabi_unwind_cpp_pr2
-13762-power.universal9610.so, during
-13762-power.universal9610.so, phase1
-13762-power.universal9610.so, personality
-13762-power.universal9610.so, function
-13762-power.universal9610.so, said
-13762-power.universal9610.so, it
-13762-power.universal9610.so, would
-13762-power.universal9610.so, stop
-13762-power.universal9610.so, here,
-13762-power.universal9610.so, but
-13762-power.universal9610.so, now
-13762-power.universal9610.so, in
-13762-power.universal9610.so, phase2
-13762-power.universal9610.so, it
-13762-power.universal9610.so, did
-13762-power.universal9610.so, not
-13762-power.universal9610.so, stop
-13762-power.universal9610.so, here
-13762-power.universal9610.so, external/libunwind_llvm/src/Unwind-EHABI.cpp
-13762-power.universal9610.so, external/libunwind_llvm/src/UnwindCursor.hpp
-13762-power.universal9610.so, unknown
-13762-power.universal9610.so, personality
-13762-power.universal9610.so, routine
-14344-android.hardware.power@1.0-impl.so, liblog.so
-14344-android.hardware.power@1.0-impl.so, libhardware.so
-14344-android.hardware.power@1.0-impl.so, libhidlbase.so
-14344-android.hardware.power@1.0-impl.so, libhidltransport.so
-14344-android.hardware.power@1.0-impl.so, libutils.so
-14344-android.hardware.power@1.0-impl.so, android.hardware.power@1.0.so
-14344-android.hardware.power@1.0-impl.so, libc++.so
-14344-android.hardware.power@1.0-impl.so, libc.so
-14344-android.hardware.power@1.0-impl.so, libm.so
-14344-android.hardware.power@1.0-impl.so, libdl.so
-14344-android.hardware.power@1.0-impl.so, android.hardware.power@1.0-impl.so
-14378-power.default.so, liblog.so
-14378-power.default.so, libc++.so
-14378-power.default.so, libc.so
-14378-power.default.so, libm.so
-14378-power.default.so, libdl.so
-14378-power.default.so, power.default.so
-14380-power.universal9610.so, liblog.so
-14380-power.universal9610.so, libcutils.so
-14380-power.universal9610.so, libhardware.so
-14380-power.universal9610.so, libc++.so
-14380-power.universal9610.so, libc.so
-14380-power.universal9610.so, libm.so
-14380-power.universal9610.so, libdl.so
-14380-power.universal9610.so, power.universal9610.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libhidlbase.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libhidltransport.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libhwbinder.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, liblog.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libutils.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libcutils.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libc++.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libc.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libm.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, libdl.so
-14813-vendor.samsung.hardware.miscpower@2.0.so, vendor.samsung.hardware.miscpower@2.0.so
-6021-android.hardware.power.stats@1.0.so, libhidlbase.so
-6021-android.hardware.power.stats@1.0.so, libhidltransport.so
-6021-android.hardware.power.stats@1.0.so, libhwbinder.so
-6021-android.hardware.power.stats@1.0.so, liblog.so
-6021-android.hardware.power.stats@1.0.so, libutils.so
-6021-android.hardware.power.stats@1.0.so, libcutils.so
-6021-android.hardware.power.stats@1.0.so, libc++.so
-6021-android.hardware.power.stats@1.0.so, libc.so
-6021-android.hardware.power.stats@1.0.so, libm.so
-6021-android.hardware.power.stats@1.0.so, libdl.so
-6021-android.hardware.power.stats@1.0.so, android.hardware.power.stats@1.0.so
-6023-android.hardware.power@1.0.so, libhidlbase.so
-6023-android.hardware.power@1.0.so, libhidltransport.so
-6023-android.hardware.power@1.0.so, libhwbinder.so
-6023-android.hardware.power@1.0.so, liblog.so
-6023-android.hardware.power@1.0.so, libutils.so
-6023-android.hardware.power@1.0.so, libcutils.so
-6023-android.hardware.power@1.0.so, libc++.so
-6023-android.hardware.power@1.0.so, libc.so
-6023-android.hardware.power@1.0.so, libm.so
-6023-android.hardware.power@1.0.so, libdl.so
-6023-android.hardware.power@1.0.so, android.hardware.power@1.0.so
-6025-android.hardware.power@1.1.so, android.hardware.power@1.0.so
-6025-android.hardware.power@1.1.so, libhidlbase.so
-6025-android.hardware.power@1.1.so, libhidltransport.so
-6025-android.hardware.power@1.1.so, libhwbinder.so
-6025-android.hardware.power@1.1.so, liblog.so
-6025-android.hardware.power@1.1.so, libutils.so
-6025-android.hardware.power@1.1.so, libcutils.so
-6025-android.hardware.power@1.1.so, libc++.so
-6025-android.hardware.power@1.1.so, libc.so
-6025-android.hardware.power@1.1.so, libm.so
-6025-android.hardware.power@1.1.so, libdl.so
-6025-android.hardware.power@1.1.so, android.hardware.power@1.1.so
-6027-android.hardware.power@1.2.so, android.hardware.power@1.0.so
-6027-android.hardware.power@1.2.so, android.hardware.power@1.1.so
-6027-android.hardware.power@1.2.so, libhidlbase.so
-6027-android.hardware.power@1.2.so, libhidltransport.so
-6027-android.hardware.power@1.2.so, libhwbinder.so
-6027-android.hardware.power@1.2.so, liblog.so
-6027-android.hardware.power@1.2.so, libutils.so
-6027-android.hardware.power@1.2.so, libcutils.so
-6027-android.hardware.power@1.2.so, libc++.so
-6027-android.hardware.power@1.2.so, libc.so
-6027-android.hardware.power@1.2.so, libm.so
-6027-android.hardware.power@1.2.so, libdl.so
-6027-android.hardware.power@1.2.so, android.hardware.power@1.2.so
-6029-android.hardware.power@1.3.so, android.hardware.power@1.0.so
-6029-android.hardware.power@1.3.so, android.hardware.power@1.1.so
-6029-android.hardware.power@1.3.so, android.hardware.power@1.2.so
-6029-android.hardware.power@1.3.so, libhidlbase.so
-6029-android.hardware.power@1.3.so, libhidltransport.so
-6029-android.hardware.power@1.3.so, libhwbinder.so
-6029-android.hardware.power@1.3.so, liblog.so
-6029-android.hardware.power@1.3.so, libutils.so
-6029-android.hardware.power@1.3.so, libcutils.so
-6029-android.hardware.power@1.3.so, libc++.so
-6029-android.hardware.power@1.3.so, libc.so
-6029-android.hardware.power@1.3.so, libm.so
-6029-android.hardware.power@1.3.so, libdl.so
-6029-android.hardware.power@1.3.so, android.hardware.power@1.3.so
-6242-libSAG_VM_Energy_v217.so, libc.so
-6242-libSAG_VM_Energy_v217.so, libSAG_VM_Energy_v217.so
-6242-libSAG_VM_Energy_v217.so, libm.so
-6242-libSAG_VM_Energy_v217.so, __gxx_personality_v0
-6242-libSAG_VM_Energy_v217.so, libdl.so
-6242-libSAG_VM_Energy_v217.so, liblog.so
-6242-libSAG_VM_Energy_v217.so, SAG_VM_Energy_Exe
-6242-libSAG_VM_Energy_v217.so, n=%d
-6242-libSAG_VM_Energy_v217.so, source=%d
-6242-libSAG_VM_Energy_v217.so, volume=%d
-6242-libSAG_VM_Energy_v217.so, SAG_VM_Energy.cpp
-6242-libSAG_VM_Energy_v217.so, __dso_handle
-6242-libSAG_VM_Energy_v217.so, crtbegin_so.c
-6242-libSAG_VM_Energy_v217.so, __gxx_personality_v0
-6242-libSAG_VM_Energy_v217.so, __aeabi_unwind_cpp_pr0
-6782-libpower.so, libbase.so
-6782-libpower.so, libbinder.so
-6782-libpower.so, libcutils.so
-6782-libpower.so, libhidlbase.so
-6782-libpower.so, libhidltransport.so
-6782-libpower.so, libhwbinder.so
-6782-libpower.so, liblog.so
-6782-libpower.so, libutils.so
-6782-libpower.so, android.system.suspend@1.0.so
-6782-libpower.so, libc++.so
-6782-libpower.so, libc.so
-6782-libpower.so, libm.so
-6782-libpower.so, libdl.so
-6782-libpower.so, libpower.so
-6782-libpower.so, hardware/libhardware_legacy/power.cpp
-6784-libpowermanager.so, libutils.so
-6784-libpowermanager.so, libbinder.so
-6784-libpowermanager.so, libc++.so
-6784-libpowermanager.so, libc.so
-6784-libpowermanager.so, libm.so
-6784-libpowermanager.so, libdl.so
-6784-libpowermanager.so, libpowermanager.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libhidlbase.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libhidltransport.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libhwbinder.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, liblog.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libutils.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libcutils.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libc++.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libc.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libm.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, libdl.so
-7202-vendor.samsung.hardware.miscpower@2.0.so, vendor.samsung.hardware.miscpower@2.0.so
-7425-android.hardware.power.stats@1.0.so, libhidlbase.so
-7425-android.hardware.power.stats@1.0.so, libhidltransport.so
-7425-android.hardware.power.stats@1.0.so, libhwbinder.so
-7425-android.hardware.power.stats@1.0.so, liblog.so
-7425-android.hardware.power.stats@1.0.so, libutils.so
-7425-android.hardware.power.stats@1.0.so, libcutils.so
-7425-android.hardware.power.stats@1.0.so, libc++.so
-7425-android.hardware.power.stats@1.0.so, libc.so
-7425-android.hardware.power.stats@1.0.so, libm.so
-7425-android.hardware.power.stats@1.0.so, libdl.so
-7425-android.hardware.power.stats@1.0.so, android.hardware.power.stats@1.0.so
-7427-android.hardware.power@1.0.so, libhidlbase.so
-7427-android.hardware.power@1.0.so, libhidltransport.so
-7427-android.hardware.power@1.0.so, libhwbinder.so
-7427-android.hardware.power@1.0.so, liblog.so
-7427-android.hardware.power@1.0.so, libutils.so
-7427-android.hardware.power@1.0.so, libcutils.so
-7427-android.hardware.power@1.0.so, libc++.so
-7427-android.hardware.power@1.0.so, libc.so
-7427-android.hardware.power@1.0.so, libm.so
-7427-android.hardware.power@1.0.so, libdl.so
-7427-android.hardware.power@1.0.so, android.hardware.power@1.0.so
-7429-android.hardware.power@1.1.so, android.hardware.power@1.0.so
-7429-android.hardware.power@1.1.so, libhidlbase.so
-7429-android.hardware.power@1.1.so, libhidltransport.so
-7429-android.hardware.power@1.1.so, libhwbinder.so
-7429-android.hardware.power@1.1.so, liblog.so
-7429-android.hardware.power@1.1.so, libutils.so
-7429-android.hardware.power@1.1.so, libcutils.so
-7429-android.hardware.power@1.1.so, libc++.so
-7429-android.hardware.power@1.1.so, libc.so
-7429-android.hardware.power@1.1.so, libm.so
-7429-android.hardware.power@1.1.so, libdl.so
-7429-android.hardware.power@1.1.so, android.hardware.power@1.1.so
-7431-android.hardware.power@1.2.so, android.hardware.power@1.0.so
-7431-android.hardware.power@1.2.so, android.hardware.power@1.1.so
-7431-android.hardware.power@1.2.so, libhidlbase.so
-7431-android.hardware.power@1.2.so, libhidltransport.so
-7431-android.hardware.power@1.2.so, libhwbinder.so
-7431-android.hardware.power@1.2.so, liblog.so
-7431-android.hardware.power@1.2.so, libutils.so
-7431-android.hardware.power@1.2.so, libcutils.so
-7431-android.hardware.power@1.2.so, libc++.so
-7431-android.hardware.power@1.2.so, libc.so
-7431-android.hardware.power@1.2.so, libm.so
-7431-android.hardware.power@1.2.so, libdl.so
-7431-android.hardware.power@1.2.so, android.hardware.power@1.2.so
-7433-android.hardware.power@1.3.so, android.hardware.power@1.0.so
-7433-android.hardware.power@1.3.so, android.hardware.power@1.1.so
-7433-android.hardware.power@1.3.so, android.hardware.power@1.2.so
-7433-android.hardware.power@1.3.so, libhidlbase.so
-7433-android.hardware.power@1.3.so, libhidltransport.so
-7433-android.hardware.power@1.3.so, libhwbinder.so
-7433-android.hardware.power@1.3.so, liblog.so
-7433-android.hardware.power@1.3.so, libutils.so
-7433-android.hardware.power@1.3.so, libcutils.so
-7433-android.hardware.power@1.3.so, libc++.so
-7433-android.hardware.power@1.3.so, libc.so
-7433-android.hardware.power@1.3.so, libm.so
-7433-android.hardware.power@1.3.so, libdl.so
-7433-android.hardware.power@1.3.so, android.hardware.power@1.3.so
-7623-libpower.so, libbase.so
-7623-libpower.so, libbinder.so
-7623-libpower.so, libcutils.so
-7623-libpower.so, libhidlbase.so
-7623-libpower.so, libhidltransport.so
-7623-libpower.so, libhwbinder.so
-7623-libpower.so, liblog.so
-7623-libpower.so, libutils.so
-7623-libpower.so, android.system.suspend@1.0.so
-7623-libpower.so, libc++.so
-7623-libpower.so, libc.so
-7623-libpower.so, libm.so
-7623-libpower.so, libdl.so
-7623-libpower.so, libpower.so
-7623-libpower.so, hardware/libhardware_legacy/power.cpp
-7904-android.hardware.power.stats@1.0.so, libhidlbase.so
-7904-android.hardware.power.stats@1.0.so, libhidltransport.so
-7904-android.hardware.power.stats@1.0.so, libhwbinder.so
-7904-android.hardware.power.stats@1.0.so, liblog.so
-7904-android.hardware.power.stats@1.0.so, libutils.so
-7904-android.hardware.power.stats@1.0.so, libcutils.so
-7904-android.hardware.power.stats@1.0.so, libc++.so
-7904-android.hardware.power.stats@1.0.so, libc.so
-7904-android.hardware.power.stats@1.0.so, libm.so
-7904-android.hardware.power.stats@1.0.so, libdl.so
-7904-android.hardware.power.stats@1.0.so, android.hardware.power.stats@1.0.so
-7906-android.hardware.power@1.0.so, libhidlbase.so
-7906-android.hardware.power@1.0.so, libhidltransport.so
-7906-android.hardware.power@1.0.so, libhwbinder.so
-7906-android.hardware.power@1.0.so, liblog.so
-7906-android.hardware.power@1.0.so, libutils.so
-7906-android.hardware.power@1.0.so, libcutils.so
-7906-android.hardware.power@1.0.so, libc++.so
-7906-android.hardware.power@1.0.so, libc.so
-7906-android.hardware.power@1.0.so, libm.so
-7906-android.hardware.power@1.0.so, libdl.so
-7906-android.hardware.power@1.0.so, android.hardware.power@1.0.so
-7908-android.hardware.power@1.1.so, android.hardware.power@1.0.so
-7908-android.hardware.power@1.1.so, libhidlbase.so
-7908-android.hardware.power@1.1.so, libhidltransport.so
-7908-android.hardware.power@1.1.so, libhwbinder.so
-7908-android.hardware.power@1.1.so, liblog.so
-7908-android.hardware.power@1.1.so, libutils.so
-7908-android.hardware.power@1.1.so, libcutils.so
-7908-android.hardware.power@1.1.so, libc++.so
-7908-android.hardware.power@1.1.so, libc.so
-7908-android.hardware.power@1.1.so, libm.so
-7908-android.hardware.power@1.1.so, libdl.so
-7908-android.hardware.power@1.1.so, android.hardware.power@1.1.so
-7910-android.hardware.power@1.2.so, android.hardware.power@1.0.so
-7910-android.hardware.power@1.2.so, android.hardware.power@1.1.so
-7910-android.hardware.power@1.2.so, libhidlbase.so
-7910-android.hardware.power@1.2.so, libhidltransport.so
-7910-android.hardware.power@1.2.so, libhwbinder.so
-7910-android.hardware.power@1.2.so, liblog.so
-7910-android.hardware.power@1.2.so, libutils.so
-7910-android.hardware.power@1.2.so, libcutils.so
-7910-android.hardware.power@1.2.so, libc++.so
-7910-android.hardware.power@1.2.so, libc.so
-7910-android.hardware.power@1.2.so, libm.so
-7910-android.hardware.power@1.2.so, libdl.so
-7910-android.hardware.power@1.2.so, android.hardware.power@1.2.so
-7912-android.hardware.power@1.3.so, android.hardware.power@1.0.so
-7912-android.hardware.power@1.3.so, android.hardware.power@1.1.so
-7912-android.hardware.power@1.3.so, android.hardware.power@1.2.so
-7912-android.hardware.power@1.3.so, libhidlbase.so
-7912-android.hardware.power@1.3.so, libhidltransport.so
-7912-android.hardware.power@1.3.so, libhwbinder.so
-7912-android.hardware.power@1.3.so, liblog.so
-7912-android.hardware.power@1.3.so, libutils.so
-7912-android.hardware.power@1.3.so, libcutils.so
-7912-android.hardware.power@1.3.so, libc++.so
-7912-android.hardware.power@1.3.so, libc.so
-7912-android.hardware.power@1.3.so, libm.so
-7912-android.hardware.power@1.3.so, libdl.so
-7912-android.hardware.power@1.3.so, android.hardware.power@1.3.so
-8191-libSAG_VM_Energy_v217.so, __gxx_personality_v0
-8191-libSAG_VM_Energy_v217.so, libc.so
-8191-libSAG_VM_Energy_v217.so, libm.so
-8191-libSAG_VM_Energy_v217.so, libdl.so
-8191-libSAG_VM_Energy_v217.so, liblog.so
-8191-libSAG_VM_Energy_v217.so, libSAG_VM_Energy_v217.so
-8191-libSAG_VM_Energy_v217.so, SAG_VM_Energy_Exe
-8191-libSAG_VM_Energy_v217.so, n=%d
-8191-libSAG_VM_Energy_v217.so, source=%d
-8191-libSAG_VM_Energy_v217.so, volume=%d
-8191-libSAG_VM_Energy_v217.so, Android
-8191-libSAG_VM_Energy_v217.so, (4691093
-8191-libSAG_VM_Energy_v217.so, based
-8191-libSAG_VM_Energy_v217.so, on
-8191-libSAG_VM_Energy_v217.so, r316199)
-8191-libSAG_VM_Energy_v217.so, clang
-8191-libSAG_VM_Energy_v217.so, version
-8191-libSAG_VM_Energy_v217.so, 6.0.2
-8191-libSAG_VM_Energy_v217.so, (https://android.googlesource.com/toolchain/clang
-8191-libSAG_VM_Energy_v217.so, 183abd29fc496f55536e7d904e0abae47888fc7f)
-8191-libSAG_VM_Energy_v217.so, (https://android.googlesource.com/toolchain/llvm
-8191-libSAG_VM_Energy_v217.so, 34361f192e41ed6e4e8f9aca80a4ea7e9856f327)
-8191-libSAG_VM_Energy_v217.so, (based
-8191-libSAG_VM_Energy_v217.so, on
-8191-libSAG_VM_Energy_v217.so, LLVM
-8191-libSAG_VM_Energy_v217.so, 6.0.2svn)
-8191-libSAG_VM_Energy_v217.so, frame_heapsort
-8191-libSAG_VM_Energy_v217.so, SAG_VM_Energy.cpp
-8191-libSAG_VM_Energy_v217.so, __dso_handle
-8191-libSAG_VM_Energy_v217.so, crtbegin_so.c
-8191-libSAG_VM_Energy_v217.so, DW.ref.__gxx_personality_v0
-8896-libpower.so, libbase.so
-8896-libpower.so, libbinder.so
-8896-libpower.so, libcutils.so
-8896-libpower.so, libhidlbase.so
-8896-libpower.so, libhidltransport.so
-8896-libpower.so, libhwbinder.so
-8896-libpower.so, liblog.so
-8896-libpower.so, libutils.so
-8896-libpower.so, android.system.suspend@1.0.so
-8896-libpower.so, libc++.so
-8896-libpower.so, libc.so
-8896-libpower.so, libm.so
-8896-libpower.so, libdl.so
-8896-libpower.so, libpower.so
-8896-libpower.so, hardware/libhardware_legacy/power.cpp
-8898-libpowermanager.so, libutils.so
-8898-libpowermanager.so, libbinder.so
-8898-libpowermanager.so, libc++.so
-8898-libpowermanager.so, libc.so
-8898-libpowermanager.so, libm.so
-8898-libpowermanager.so, libdl.so
-8898-libpowermanager.so, libpowermanager.so
-9553-android.hardware.power.stats@1.0.so, libhidlbase.so
-9553-android.hardware.power.stats@1.0.so, libhidltransport.so
-9553-android.hardware.power.stats@1.0.so, libhwbinder.so
-9553-android.hardware.power.stats@1.0.so, liblog.so
-9553-android.hardware.power.stats@1.0.so, libutils.so
-9553-android.hardware.power.stats@1.0.so, libcutils.so
-9553-android.hardware.power.stats@1.0.so, libc++.so
-9553-android.hardware.power.stats@1.0.so, libc.so
-9553-android.hardware.power.stats@1.0.so, libm.so
-9553-android.hardware.power.stats@1.0.so, libdl.so
-9553-android.hardware.power.stats@1.0.so, android.hardware.power.stats@1.0.so
-9555-android.hardware.power@1.0.so, libhidlbase.so
-9555-android.hardware.power@1.0.so, libhidltransport.so
-9555-android.hardware.power@1.0.so, libhwbinder.so
-9555-android.hardware.power@1.0.so, liblog.so
-9555-android.hardware.power@1.0.so, libutils.so
-9555-android.hardware.power@1.0.so, libcutils.so
-9555-android.hardware.power@1.0.so, libc++.so
-9555-android.hardware.power@1.0.so, libc.so
-9555-android.hardware.power@1.0.so, libm.so
-9555-android.hardware.power@1.0.so, libdl.so
-9555-android.hardware.power@1.0.so, android.hardware.power@1.0.so
-9557-android.hardware.power@1.1.so, android.hardware.power@1.0.so
-9557-android.hardware.power@1.1.so, libhidlbase.so
-9557-android.hardware.power@1.1.so, libhidltransport.so
-9557-android.hardware.power@1.1.so, libhwbinder.so
-9557-android.hardware.power@1.1.so, liblog.so
-9557-android.hardware.power@1.1.so, libutils.so
-9557-android.hardware.power@1.1.so, libcutils.so
-9557-android.hardware.power@1.1.so, libc++.so
-9557-android.hardware.power@1.1.so, libc.so
-9557-android.hardware.power@1.1.so, libm.so
-9557-android.hardware.power@1.1.so, libdl.so
-9557-android.hardware.power@1.1.so, android.hardware.power@1.1.so
-9559-android.hardware.power@1.2.so, android.hardware.power@1.0.so
-9559-android.hardware.power@1.2.so, android.hardware.power@1.1.so
-9559-android.hardware.power@1.2.so, libhidlbase.so
-9559-android.hardware.power@1.2.so, libhidltransport.so
-9559-android.hardware.power@1.2.so, libhwbinder.so
-9559-android.hardware.power@1.2.so, liblog.so
-9559-android.hardware.power@1.2.so, libutils.so
-9559-android.hardware.power@1.2.so, libcutils.so
-9559-android.hardware.power@1.2.so, libc++.so
-9559-android.hardware.power@1.2.so, libc.so
-9559-android.hardware.power@1.2.so, libm.so
-9559-android.hardware.power@1.2.so, libdl.so
-9559-android.hardware.power@1.2.so, android.hardware.power@1.2.so
-9561-android.hardware.power@1.3.so, android.hardware.power@1.0.so
-9561-android.hardware.power@1.3.so, android.hardware.power@1.1.so
-9561-android.hardware.power@1.3.so, android.hardware.power@1.2.so
-9561-android.hardware.power@1.3.so, libhidlbase.so
-9561-android.hardware.power@1.3.so, libhidltransport.so
-9561-android.hardware.power@1.3.so, libhwbinder.so
-9561-android.hardware.power@1.3.so, liblog.so
-9561-android.hardware.power@1.3.so, libutils.so
-9561-android.hardware.power@1.3.so, libcutils.so
-9561-android.hardware.power@1.3.so, libc++.so
-9561-android.hardware.power@1.3.so, libc.so
-9561-android.hardware.power@1.3.so, libm.so
-9561-android.hardware.power@1.3.so, libdl.so
-9561-android.hardware.power@1.3.so, android.hardware.power@1.3.so
-9751-libpower.so, libbase.so
-9751-libpower.so, libbinder.so
-9751-libpower.so, libcutils.so
-9751-libpower.so, libhidlbase.so
-9751-libpower.so, libhidltransport.so
-9751-libpower.so, libhwbinder.so
-9751-libpower.so, liblog.so
-9751-libpower.so, libutils.so
-9751-libpower.so, android.system.suspend@1.0.so
-9751-libpower.so, libc++.so
-9751-libpower.so, libc.so
-9751-libpower.so, libm.so
-9751-libpower.so, libdl.so
-9751-libpower.so, libpower.so
-9751-libpower.so, hardware/libhardware_legacy/power.cpp
-9813-vendor.samsung.hardware.miscpower@2.0.so, libhidlbase.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libhidltransport.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libhwbinder.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, liblog.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libutils.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libcutils.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libc++.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libc.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libm.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, libdl.so
-9813-vendor.samsung.hardware.miscpower@2.0.so, vendor.samsung.hardware.miscpower@2.0.so
+## Power System Dependency Diagram
+# label: %origin%
+# style: label;shape=rectangle;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;
+# namespace: csvimport-
+# connect: {"from":"origin", "to":"dependency", "invert":true, "style":"curved=0;endArrow=blockThin;endFill=1;"}
+# width: auto
+# height: auto
+# padding: 15
+# ignore: id,shape,fill,stroke,refs
+# nodespacing: 40
+# levelspacing: 100
+# edgespacing: 40
+# layout: auto
+## CSV starts under this line
+id,origin,dependency
+1,android.hardware.power@1.0-impl.so,liblog.so
+2,android.hardware.power@1.0-impl.so,libhardware.so
+3,android.hardware.power@1.0-impl.so,libhidlbase.so
+4,android.hardware.power@1.0-impl.so,libhidltransport.so
+5,android.hardware.power@1.0-impl.so,libutils.so
+6,android.hardware.power@1.0-impl.so,android.hardware.power@1.0.so
+7,android.hardware.power@1.0-impl.so,libc++.so
+8,android.hardware.power@1.0-impl.so,libc.so
+9,android.hardware.power@1.0-impl.so,libm.so
+10,android.hardware.power@1.0-impl.so,libdl.so
+11,android.hardware.power@1.0-impl.so,android.hardware.power@1.0-impl.so
+12,power.default.so,liblog.so
+13,power.default.so,libc++.so
+14,power.default.so,libc.so
+15,power.default.so,libm.so
+16,power.default.so,libdl.so
+17,power.default.so,power.default.so
+18,power.universal9610.so,liblog.so
+19,power.universal9610.so,libcutils.so
+20,power.universal9610.so,libhardware.so
+21,power.universal9610.so,libc++.so
+22,power.universal9610.so,libc.so
+23,power.universal9610.so,libm.so
+24,power.universal9610.so,libdl.so
+25,power.universal9610.so,power.universal9610.so
+26,power.universal9610.so,__aeabi_unwind_cpp_pr0
+27,power.universal9610.so,__aeabi_unwind_cpp_pr1
+28,power.universal9610.so,__aeabi_unwind_cpp_pr2
+29,power.universal9610.so,during
+30,power.universal9610.so,phase1
+31,power.universal9610.so,personality
+32,power.universal9610.so,function
+33,power.universal9610.so,said
+34,power.universal9610.so,it
+35,power.universal9610.so,would
+36,power.universal9610.so,stop
+37,power.universal9610.so,here,
+38,power.universal9610.so,but
+39,power.universal9610.so,now
+40,power.universal9610.so,in
+41,power.universal9610.so,phase2
+42,power.universal9610.so,it
+43,power.universal9610.so,did
+44,power.universal9610.so,not
+45,power.universal9610.so,stop
+46,power.universal9610.so,here
+47,power.universal9610.so,external/libunwind_llvm/src/Unwind-EHABI.cpp
+48,power.universal9610.so,external/libunwind_llvm/src/UnwindCursor.hpp
+49,power.universal9610.so,unknown
+50,power.universal9610.so,personality
+51,power.universal9610.so,routine
+52,android.hardware.power@1.0-impl.so,liblog.so
+53,android.hardware.power@1.0-impl.so,libhardware.so
+54,android.hardware.power@1.0-impl.so,libhidlbase.so
+55,android.hardware.power@1.0-impl.so,libhidltransport.so
+56,android.hardware.power@1.0-impl.so,libutils.so
+57,android.hardware.power@1.0-impl.so,android.hardware.power@1.0.so
+58,android.hardware.power@1.0-impl.so,libc++.so
+59,android.hardware.power@1.0-impl.so,libc.so
+60,android.hardware.power@1.0-impl.so,libm.so
+61,android.hardware.power@1.0-impl.so,libdl.so
+62,android.hardware.power@1.0-impl.so,android.hardware.power@1.0-impl.so
+63,power.default.so,liblog.so
+64,power.default.so,libc++.so
+65,power.default.so,libc.so
+66,power.default.so,libm.so
+67,power.default.so,libdl.so
+68,power.default.so,power.default.so
+69,power.universal9610.so,liblog.so
+70,power.universal9610.so,libcutils.so
+71,power.universal9610.so,libhardware.so
+72,power.universal9610.so,libc++.so
+73,power.universal9610.so,libc.so
+74,power.universal9610.so,libm.so
+75,power.universal9610.so,libdl.so
+76,power.universal9610.so,power.universal9610.so
+77,vendor.samsung.hardware.miscpower@2.0.so,libhidlbase.so
+78,vendor.samsung.hardware.miscpower@2.0.so,libhidltransport.so
+79,vendor.samsung.hardware.miscpower@2.0.so,libhwbinder.so
+80,vendor.samsung.hardware.miscpower@2.0.so,liblog.so
+81,vendor.samsung.hardware.miscpower@2.0.so,libutils.so
+82,vendor.samsung.hardware.miscpower@2.0.so,libcutils.so
+83,vendor.samsung.hardware.miscpower@2.0.so,libc++.so
+84,vendor.samsung.hardware.miscpower@2.0.so,libc.so
+85,vendor.samsung.hardware.miscpower@2.0.so,libm.so
+86,vendor.samsung.hardware.miscpower@2.0.so,libdl.so
+87,vendor.samsung.hardware.miscpower@2.0.so,vendor.samsung.hardware.miscpower@2.0.so
+88,android.hardware.power.stats@1.0.so,libhidlbase.so
+89,android.hardware.power.stats@1.0.so,libhidltransport.so
+90,android.hardware.power.stats@1.0.so,libhwbinder.so
+91,android.hardware.power.stats@1.0.so,liblog.so
+92,android.hardware.power.stats@1.0.so,libutils.so
+93,android.hardware.power.stats@1.0.so,libcutils.so
+94,android.hardware.power.stats@1.0.so,libc++.so
+95,android.hardware.power.stats@1.0.so,libc.so
+96,android.hardware.power.stats@1.0.so,libm.so
+97,android.hardware.power.stats@1.0.so,libdl.so
+98,android.hardware.power.stats@1.0.so,android.hardware.power.stats@1.0.so
+99,android.hardware.power@1.0.so,libhidlbase.so
+100,android.hardware.power@1.0.so,libhidltransport.so
+101,android.hardware.power@1.0.so,libhwbinder.so
+102,android.hardware.power@1.0.so,liblog.so
+103,android.hardware.power@1.0.so,libutils.so
+104,android.hardware.power@1.0.so,libcutils.so
+105,android.hardware.power@1.0.so,libc++.so
+106,android.hardware.power@1.0.so,libc.so
+107,android.hardware.power@1.0.so,libm.so
+108,android.hardware.power@1.0.so,libdl.so
+109,android.hardware.power@1.0.so,android.hardware.power@1.0.so
+110,android.hardware.power@1.1.so,android.hardware.power@1.0.so
+111,android.hardware.power@1.1.so,libhidlbase.so
+112,android.hardware.power@1.1.so,libhidltransport.so
+113,android.hardware.power@1.1.so,libhwbinder.so
+114,android.hardware.power@1.1.so,liblog.so
+115,android.hardware.power@1.1.so,libutils.so
+116,android.hardware.power@1.1.so,libcutils.so
+117,android.hardware.power@1.1.so,libc++.so
+118,android.hardware.power@1.1.so,libc.so
+119,android.hardware.power@1.1.so,libm.so
+120,android.hardware.power@1.1.so,libdl.so
+121,android.hardware.power@1.1.so,android.hardware.power@1.1.so
+122,android.hardware.power@1.2.so,android.hardware.power@1.0.so
+123,android.hardware.power@1.2.so,android.hardware.power@1.1.so
+124,android.hardware.power@1.2.so,libhidlbase.so
+125,android.hardware.power@1.2.so,libhidltransport.so
+126,android.hardware.power@1.2.so,libhwbinder.so
+127,android.hardware.power@1.2.so,liblog.so
+128,android.hardware.power@1.2.so,libutils.so
+129,android.hardware.power@1.2.so,libcutils.so
+130,android.hardware.power@1.2.so,libc++.so
+131,android.hardware.power@1.2.so,libc.so
+132,android.hardware.power@1.2.so,libm.so
+133,android.hardware.power@1.2.so,libdl.so
+134,android.hardware.power@1.2.so,android.hardware.power@1.2.so
+135,android.hardware.power@1.3.so,android.hardware.power@1.0.so
+136,android.hardware.power@1.3.so,android.hardware.power@1.1.so
+137,android.hardware.power@1.3.so,android.hardware.power@1.2.so
+138,android.hardware.power@1.3.so,libhidlbase.so
+139,android.hardware.power@1.3.so,libhidltransport.so
+140,android.hardware.power@1.3.so,libhwbinder.so
+141,android.hardware.power@1.3.so,liblog.so
+142,android.hardware.power@1.3.so,libutils.so
+143,android.hardware.power@1.3.so,libcutils.so
+144,android.hardware.power@1.3.so,libc++.so
+145,android.hardware.power@1.3.so,libc.so
+146,android.hardware.power@1.3.so,libm.so
+147,android.hardware.power@1.3.so,libdl.so
+148,android.hardware.power@1.3.so,android.hardware.power@1.3.so
+149,libSAG_VM_Energy_v217.so,libc.so
+150,libSAG_VM_Energy_v217.so,libSAG_VM_Energy_v217.so
+151,libSAG_VM_Energy_v217.so,libm.so
+152,libSAG_VM_Energy_v217.so,__gxx_personality_v0
+153,libSAG_VM_Energy_v217.so,libdl.so
+154,libSAG_VM_Energy_v217.so,liblog.so
+155,libSAG_VM_Energy_v217.so,SAG_VM_Energy_Exe
+156,libSAG_VM_Energy_v217.so,n=%d
+157,libSAG_VM_Energy_v217.so,source=%d
+158,libSAG_VM_Energy_v217.so,volume=%d
+159,libSAG_VM_Energy_v217.so,SAG_VM_Energy.cpp
+160,libSAG_VM_Energy_v217.so,__dso_handle
+161,libSAG_VM_Energy_v217.so,crtbegin_so.c
+162,libSAG_VM_Energy_v217.so,__gxx_personality_v0
+163,libSAG_VM_Energy_v217.so,__aeabi_unwind_cpp_pr0
+164,libpower.so,libbase.so
+165,libpower.so,libbinder.so
+166,libpower.so,libcutils.so
+167,libpower.so,libhidlbase.so
+168,libpower.so,libhidltransport.so
+169,libpower.so,libhwbinder.so
+170,libpower.so,liblog.so
+171,libpower.so,libutils.so
+172,libpower.so,android.system.suspend@1.0.so
+173,libpower.so,libc++.so
+174,libpower.so,libc.so
+175,libpower.so,libm.so
+176,libpower.so,libdl.so
+177,libpower.so,libpower.so
+178,libpower.so,hardware/libhardware_legacy/power.cpp
+179,libpowermanager.so,libutils.so
+180,libpowermanager.so,libbinder.so
+181,libpowermanager.so,libc++.so
+182,libpowermanager.so,libc.so
+183,libpowermanager.so,libm.so
+184,libpowermanager.so,libdl.so
+185,libpowermanager.so,libpowermanager.so
+186,vendor.samsung.hardware.miscpower@2.0.so,libhidlbase.so
+187,vendor.samsung.hardware.miscpower@2.0.so,libhidltransport.so
+188,vendor.samsung.hardware.miscpower@2.0.so,libhwbinder.so
+189,vendor.samsung.hardware.miscpower@2.0.so,liblog.so
+190,vendor.samsung.hardware.miscpower@2.0.so,libutils.so
+191,vendor.samsung.hardware.miscpower@2.0.so,libcutils.so
+192,vendor.samsung.hardware.miscpower@2.0.so,libc++.so
+193,vendor.samsung.hardware.miscpower@2.0.so,libc.so
+194,vendor.samsung.hardware.miscpower@2.0.so,libm.so
+195,vendor.samsung.hardware.miscpower@2.0.so,libdl.so
+196,vendor.samsung.hardware.miscpower@2.0.so,vendor.samsung.hardware.miscpower@2.0.so
+197,android.hardware.power.stats@1.0.so,libhidlbase.so
+198,android.hardware.power.stats@1.0.so,libhidltransport.so
+199,android.hardware.power.stats@1.0.so,libhwbinder.so
+200,android.hardware.power.stats@1.0.so,liblog.so
+201,android.hardware.power.stats@1.0.so,libutils.so
+202,android.hardware.power.stats@1.0.so,libcutils.so
+203,android.hardware.power.stats@1.0.so,libc++.so
+204,android.hardware.power.stats@1.0.so,libc.so
+205,android.hardware.power.stats@1.0.so,libm.so
+206,android.hardware.power.stats@1.0.so,libdl.so
+207,android.hardware.power.stats@1.0.so,android.hardware.power.stats@1.0.so
+208,android.hardware.power@1.0.so,libhidlbase.so
+209,android.hardware.power@1.0.so,libhidltransport.so
+210,android.hardware.power@1.0.so,libhwbinder.so
+211,android.hardware.power@1.0.so,liblog.so
+212,android.hardware.power@1.0.so,libutils.so
+213,android.hardware.power@1.0.so,libcutils.so
+214,android.hardware.power@1.0.so,libc++.so
+215,android.hardware.power@1.0.so,libc.so
+216,android.hardware.power@1.0.so,libm.so
+217,android.hardware.power@1.0.so,libdl.so
+218,android.hardware.power@1.0.so,android.hardware.power@1.0.so
+219,android.hardware.power@1.1.so,android.hardware.power@1.0.so
+220,android.hardware.power@1.1.so,libhidlbase.so
+221,android.hardware.power@1.1.so,libhidltransport.so
+222,android.hardware.power@1.1.so,libhwbinder.so
+223,android.hardware.power@1.1.so,liblog.so
+224,android.hardware.power@1.1.so,libutils.so
+225,android.hardware.power@1.1.so,libcutils.so
+226,android.hardware.power@1.1.so,libc++.so
+227,android.hardware.power@1.1.so,libc.so
+228,android.hardware.power@1.1.so,libm.so
+229,android.hardware.power@1.1.so,libdl.so
+230,android.hardware.power@1.1.so,android.hardware.power@1.1.so
+231,android.hardware.power@1.2.so,android.hardware.power@1.0.so
+232,android.hardware.power@1.2.so,android.hardware.power@1.1.so
+233,android.hardware.power@1.2.so,libhidlbase.so
+234,android.hardware.power@1.2.so,libhidltransport.so
+235,android.hardware.power@1.2.so,libhwbinder.so
+236,android.hardware.power@1.2.so,liblog.so
+237,android.hardware.power@1.2.so,libutils.so
+238,android.hardware.power@1.2.so,libcutils.so
+239,android.hardware.power@1.2.so,libc++.so
+240,android.hardware.power@1.2.so,libc.so
+241,android.hardware.power@1.2.so,libm.so
+242,android.hardware.power@1.2.so,libdl.so
+243,android.hardware.power@1.2.so,android.hardware.power@1.2.so
+244,android.hardware.power@1.3.so,android.hardware.power@1.0.so
+245,android.hardware.power@1.3.so,android.hardware.power@1.1.so
+246,android.hardware.power@1.3.so,android.hardware.power@1.2.so
+247,android.hardware.power@1.3.so,libhidlbase.so
+248,android.hardware.power@1.3.so,libhidltransport.so
+249,android.hardware.power@1.3.so,libhwbinder.so
+250,android.hardware.power@1.3.so,liblog.so
+251,android.hardware.power@1.3.so,libutils.so
+252,android.hardware.power@1.3.so,libcutils.so
+253,android.hardware.power@1.3.so,libc++.so
+254,android.hardware.power@1.3.so,libc.so
+255,android.hardware.power@1.3.so,libm.so
+256,android.hardware.power@1.3.so,libdl.so
+257,android.hardware.power@1.3.so,android.hardware.power@1.3.so
+258,libpower.so,libbase.so
+259,libpower.so,libbinder.so
+260,libpower.so,libcutils.so
+261,libpower.so,libhidlbase.so
+262,libpower.so,libhidltransport.so
+263,libpower.so,libhwbinder.so
+264,libpower.so,liblog.so
+265,libpower.so,libutils.so
+266,libpower.so,android.system.suspend@1.0.so
+267,libpower.so,libc++.so
+268,libpower.so,libc.so
+269,libpower.so,libm.so
+270,libpower.so,libdl.so
+271,libpower.so,libpower.so
+272,libpower.so,hardware/libhardware_legacy/power.cpp
+273,android.hardware.power.stats@1.0.so,libhidlbase.so
+274,android.hardware.power.stats@1.0.so,libhidltransport.so
+275,android.hardware.power.stats@1.0.so,libhwbinder.so
+276,android.hardware.power.stats@1.0.so,liblog.so
+277,android.hardware.power.stats@1.0.so,libutils.so
+278,android.hardware.power.stats@1.0.so,libcutils.so
+279,android.hardware.power.stats@1.0.so,libc++.so
+280,android.hardware.power.stats@1.0.so,libc.so
+281,android.hardware.power.stats@1.0.so,libm.so
+282,android.hardware.power.stats@1.0.so,libdl.so
+283,android.hardware.power.stats@1.0.so,android.hardware.power.stats@1.0.so
+284,android.hardware.power@1.0.so,libhidlbase.so
+285,android.hardware.power@1.0.so,libhidltransport.so
+286,android.hardware.power@1.0.so,libhwbinder.so
+287,android.hardware.power@1.0.so,liblog.so
+288,android.hardware.power@1.0.so,libutils.so
+289,android.hardware.power@1.0.so,libcutils.so
+290,android.hardware.power@1.0.so,libc++.so
+291,android.hardware.power@1.0.so,libc.so
+292,android.hardware.power@1.0.so,libm.so
+293,android.hardware.power@1.0.so,libdl.so
+294,android.hardware.power@1.0.so,android.hardware.power@1.0.so
+295,android.hardware.power@1.1.so,android.hardware.power@1.0.so
+296,android.hardware.power@1.1.so,libhidlbase.so
+297,android.hardware.power@1.1.so,libhidltransport.so
+298,android.hardware.power@1.1.so,libhwbinder.so
+299,android.hardware.power@1.1.so,liblog.so
+300,android.hardware.power@1.1.so,libutils.so
+301,android.hardware.power@1.1.so,libcutils.so
+302,android.hardware.power@1.1.so,libc++.so
+303,android.hardware.power@1.1.so,libc.so
+304,android.hardware.power@1.1.so,libm.so
+305,android.hardware.power@1.1.so,libdl.so
+306,android.hardware.power@1.1.so,android.hardware.power@1.1.so
+307,android.hardware.power@1.2.so,android.hardware.power@1.0.so
+308,android.hardware.power@1.2.so,android.hardware.power@1.1.so
+309,android.hardware.power@1.2.so,libhidlbase.so
+310,android.hardware.power@1.2.so,libhidltransport.so
+311,android.hardware.power@1.2.so,libhwbinder.so
+312,android.hardware.power@1.2.so,liblog.so
+313,android.hardware.power@1.2.so,libutils.so
+314,android.hardware.power@1.2.so,libcutils.so
+315,android.hardware.power@1.2.so,libc++.so
+316,android.hardware.power@1.2.so,libc.so
+317,android.hardware.power@1.2.so,libm.so
+318,android.hardware.power@1.2.so,libdl.so
+319,android.hardware.power@1.2.so,android.hardware.power@1.2.so
+320,android.hardware.power@1.3.so,android.hardware.power@1.0.so
+321,android.hardware.power@1.3.so,android.hardware.power@1.1.so
+322,android.hardware.power@1.3.so,android.hardware.power@1.2.so
+323,android.hardware.power@1.3.so,libhidlbase.so
+324,android.hardware.power@1.3.so,libhidltransport.so
+325,android.hardware.power@1.3.so,libhwbinder.so
+326,android.hardware.power@1.3.so,liblog.so
+327,android.hardware.power@1.3.so,libutils.so
+328,android.hardware.power@1.3.so,libcutils.so
+329,android.hardware.power@1.3.so,libc++.so
+330,android.hardware.power@1.3.so,libc.so
+331,android.hardware.power@1.3.so,libm.so
+332,android.hardware.power@1.3.so,libdl.so
+333,android.hardware.power@1.3.so,android.hardware.power@1.3.so
+334,libSAG_VM_Energy_v217.so,__gxx_personality_v0
+335,libSAG_VM_Energy_v217.so,libc.so
+336,libSAG_VM_Energy_v217.so,libm.so
+337,libSAG_VM_Energy_v217.so,libdl.so
+338,libSAG_VM_Energy_v217.so,liblog.so
+339,libSAG_VM_Energy_v217.so,libSAG_VM_Energy_v217.so
+340,libSAG_VM_Energy_v217.so,SAG_VM_Energy_Exe
+341,libSAG_VM_Energy_v217.so,n=%d
+342,libSAG_VM_Energy_v217.so,source=%d
+343,libSAG_VM_Energy_v217.so,volume=%d
+344,libSAG_VM_Energy_v217.so,Android
+345,libSAG_VM_Energy_v217.so,(4691093
+346,libSAG_VM_Energy_v217.so,based
+347,libSAG_VM_Energy_v217.so,on
+348,libSAG_VM_Energy_v217.so,r316199)
+349,libSAG_VM_Energy_v217.so,clang
+350,libSAG_VM_Energy_v217.so,version
+351,libSAG_VM_Energy_v217.so,6.0.2
+352,libSAG_VM_Energy_v217.so,(https://android.googlesource.com/toolchain/clang
+353,libSAG_VM_Energy_v217.so,183abd29fc496f55536e7d904e0abae47888fc7f)
+354,libSAG_VM_Energy_v217.so,(https://android.googlesource.com/toolchain/llvm
+355,libSAG_VM_Energy_v217.so,34361f192e41ed6e4e8f9aca80a4ea7e9856f327)
+356,libSAG_VM_Energy_v217.so,(based
+357,libSAG_VM_Energy_v217.so,on
+358,libSAG_VM_Energy_v217.so,LLVM
+359,libSAG_VM_Energy_v217.so,6.0.2svn)
+360,libSAG_VM_Energy_v217.so,frame_heapsort
+361,libSAG_VM_Energy_v217.so,SAG_VM_Energy.cpp
+362,libSAG_VM_Energy_v217.so,__dso_handle
+363,libSAG_VM_Energy_v217.so,crtbegin_so.c
+364,libSAG_VM_Energy_v217.so,DW.ref.__gxx_personality_v0
+365,libpower.so,libbase.so
+366,libpower.so,libbinder.so
+367,libpower.so,libcutils.so
+368,libpower.so,libhidlbase.so
+369,libpower.so,libhidltransport.so
+370,libpower.so,libhwbinder.so
+371,libpower.so,liblog.so
+372,libpower.so,libutils.so
+373,libpower.so,android.system.suspend@1.0.so
+374,libpower.so,libc++.so
+375,libpower.so,libc.so
+376,libpower.so,libm.so
+377,libpower.so,libdl.so
+378,libpower.so,libpower.so
+379,libpower.so,hardware/libhardware_legacy/power.cpp
+380,libpowermanager.so,libutils.so
+381,libpowermanager.so,libbinder.so
+382,libpowermanager.so,libc++.so
+383,libpowermanager.so,libc.so
+384,libpowermanager.so,libm.so
+385,libpowermanager.so,libdl.so
+386,libpowermanager.so,libpowermanager.so
+387,android.hardware.power.stats@1.0.so,libhidlbase.so
+388,android.hardware.power.stats@1.0.so,libhidltransport.so
+389,android.hardware.power.stats@1.0.so,libhwbinder.so
+390,android.hardware.power.stats@1.0.so,liblog.so
+391,android.hardware.power.stats@1.0.so,libutils.so
+392,android.hardware.power.stats@1.0.so,libcutils.so
+393,android.hardware.power.stats@1.0.so,libc++.so
+394,android.hardware.power.stats@1.0.so,libc.so
+395,android.hardware.power.stats@1.0.so,libm.so
+396,android.hardware.power.stats@1.0.so,libdl.so
+397,android.hardware.power.stats@1.0.so,android.hardware.power.stats@1.0.so
+398,android.hardware.power@1.0.so,libhidlbase.so
+399,android.hardware.power@1.0.so,libhidltransport.so
+400,android.hardware.power@1.0.so,libhwbinder.so
+401,android.hardware.power@1.0.so,liblog.so
+402,android.hardware.power@1.0.so,libutils.so
+403,android.hardware.power@1.0.so,libcutils.so
+404,android.hardware.power@1.0.so,libc++.so
+405,android.hardware.power@1.0.so,libc.so
+406,android.hardware.power@1.0.so,libm.so
+407,android.hardware.power@1.0.so,libdl.so
+408,android.hardware.power@1.0.so,android.hardware.power@1.0.so
+409,android.hardware.power@1.1.so,android.hardware.power@1.0.so
+410,android.hardware.power@1.1.so,libhidlbase.so
+411,android.hardware.power@1.1.so,libhidltransport.so
+412,android.hardware.power@1.1.so,libhwbinder.so
+413,android.hardware.power@1.1.so,liblog.so
+414,android.hardware.power@1.1.so,libutils.so
+415,android.hardware.power@1.1.so,libcutils.so
+416,android.hardware.power@1.1.so,libc++.so
+417,android.hardware.power@1.1.so,libc.so
+418,android.hardware.power@1.1.so,libm.so
+419,android.hardware.power@1.1.so,libdl.so
+420,android.hardware.power@1.1.so,android.hardware.power@1.1.so
+421,android.hardware.power@1.2.so,android.hardware.power@1.0.so
+422,android.hardware.power@1.2.so,android.hardware.power@1.1.so
+423,android.hardware.power@1.2.so,libhidlbase.so
+424,android.hardware.power@1.2.so,libhidltransport.so
+425,android.hardware.power@1.2.so,libhwbinder.so
+426,android.hardware.power@1.2.so,liblog.so
+427,android.hardware.power@1.2.so,libutils.so
+428,android.hardware.power@1.2.so,libcutils.so
+429,android.hardware.power@1.2.so,libc++.so
+430,android.hardware.power@1.2.so,libc.so
+431,android.hardware.power@1.2.so,libm.so
+432,android.hardware.power@1.2.so,libdl.so
+433,android.hardware.power@1.2.so,android.hardware.power@1.2.so
+434,android.hardware.power@1.3.so,android.hardware.power@1.0.so
+435,android.hardware.power@1.3.so,android.hardware.power@1.1.so
+436,android.hardware.power@1.3.so,android.hardware.power@1.2.so
+437,android.hardware.power@1.3.so,libhidlbase.so
+438,android.hardware.power@1.3.so,libhidltransport.so
+439,android.hardware.power@1.3.so,libhwbinder.so
+440,android.hardware.power@1.3.so,liblog.so
+441,android.hardware.power@1.3.so,libutils.so
+442,android.hardware.power@1.3.so,libcutils.so
+443,android.hardware.power@1.3.so,libc++.so
+444,android.hardware.power@1.3.so,libc.so
+445,android.hardware.power@1.3.so,libm.so
+446,android.hardware.power@1.3.so,libdl.so
+447,android.hardware.power@1.3.so,android.hardware.power@1.3.so
+448,libpower.so,libbase.so
+449,libpower.so,libbinder.so
+450,libpower.so,libcutils.so
+451,libpower.so,libhidlbase.so
+452,libpower.so,libhidltransport.so
+453,libpower.so,libhwbinder.so
+454,libpower.so,liblog.so
+455,libpower.so,libutils.so
+456,libpower.so,android.system.suspend@1.0.so
+457,libpower.so,libc++.so
+458,libpower.so,libc.so
+459,libpower.so,libm.so
+460,libpower.so,libdl.so
+461,libpower.so,libpower.so
+462,libpower.so,hardware/libhardware_legacy/power.cpp
+463,vendor.samsung.hardware.miscpower@2.0.so,libhidlbase.so
+464,vendor.samsung.hardware.miscpower@2.0.so,libhidltransport.so
+465,vendor.samsung.hardware.miscpower@2.0.so,libhwbinder.so
+466,vendor.samsung.hardware.miscpower@2.0.so,liblog.so
+467,vendor.samsung.hardware.miscpower@2.0.so,libutils.so
+468,vendor.samsung.hardware.miscpower@2.0.so,libcutils.so
+469,vendor.samsung.hardware.miscpower@2.0.so,libc++.so
+470,vendor.samsung.hardware.miscpower@2.0.so,libc.so
+471,vendor.samsung.hardware.miscpower@2.0.so,libm.so
+472,vendor.samsung.hardware.miscpower@2.0.so,libdl.so
+473,vendor.samsung.hardware.miscpower@2.0.so,vendor.samsung.hardware.miscpower@2.0.so
