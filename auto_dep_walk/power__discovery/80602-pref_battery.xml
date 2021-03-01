@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="key_battery_optimize_condition_ok_count" value="0" />
+    <string name="key_battery_info">Level : 54 / Phase : 2 / AvailableTime : 1620 / RemainingChargedTime : 0 / ExtendedTime : 0 / isCharging : true / 10/07/2020, 23:14</string>
+    <boolean name="key_battery_dump_switch" value="false" />
+    <set name="key_battery_dump_config">
+        <string>0_true</string>
+        <string>2_IgnoringBatteryOptimizations</string>
+        <string>5_true</string>
+        <string>1_false</string>
+    </set>
+</map>
