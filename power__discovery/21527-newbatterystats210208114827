@@ -1,0 +1,22 @@
+Battery History (0% used, 556 used of 4096KB, 6 strings using 318):
+                    0 (19) RESET:TIME: 2021-02-08-11-47-37
+                    0 (2) 100 status=discharging health=good plug=none temp=254 volt=4293 current=0 ap_temp=26 -nr_connected -wifi_ap -otg misc_event=0x10000 online=1 current_event=0x0 txshare_event=0x0 charge=3746 modemRailChargemAh=0 wifiRailChargemAh=0 +running +wake_lock +screen phone_state=off brightness=dim +usb_data wifi_signal_strength=4 wifi_suppl=completed gps_signal_quality=good top=1000:"com.android.settings"
+                    0 (2) 100 user=0:"0"
+                    0 (2) 100 userfg=0:"0"
+               +200ms (2) 100 stats=0:"wakelock-change"
+               +232ms (2) 100 stats=0:"get-stats"
+             +1s375ms (1) 100 -usb_data
+             +3s664ms (2) 100 +job=u0a51:"com.samsung.android.app.routines/.core.service.RoutineJobService"
+             +3s714ms (2) 100 -job=u0a51:"com.samsung.android.app.routines/.core.service.RoutineJobService"
+             +4s327ms (3) 100 current=-507 ap_temp=28
+             +9s490ms (2) 100 stats=0:"get-stats"
+             +9s692ms (2) 100 stats=0:"shutdown"
+             +9s697ms (17) SHUTDOWN
+             +9s698ms (17) START
+             +9s698ms (19) TIME: 2021-02-08-11-48-24
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 0
+All UID cpu time reads since the later of device start or stats reset: 8
+UIDs removed since the later of device start or stats reset: 0

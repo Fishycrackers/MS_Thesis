@@ -1,0 +1,37 @@
+Battery History (0% used, 1012 used of 4096KB, 7 strings using 426):
+                    0 (19) RESET:TIME: 2021-02-08-12-30-58
+                    0 (2) 100 status=discharging health=good plug=none temp=270 volt=4275 current=91 ap_temp=28 -nr_connected -wifi_ap -otg misc_event=0x10000 online=1 current_event=0x0 txshare_event=0x0 charge=3746 modemRailChargemAh=0 wifiRailChargemAh=0 +running +wake_lock +screen phone_state=off brightness=dim +usb_data top=u0a141:"com.sec.android.app.launcher"
+                    0 (2) 100 user=0:"0"
+                    0 (2) 100 userfg=0:"0"
+               +361ms (2) 100 stats=0:"wakelock-change"
+               +518ms (2) 100 -usb_data stats=0:"get-stats"
+             +3s690ms (2) 100 +job=u0a51:"com.samsung.android.app.routines/.core.service.RoutineJobService"
+             +3s734ms (2) 100 -job=u0a51:"com.samsung.android.app.routines/.core.service.RoutineJobService"
+             +5s239ms (3) 100 current=91 ap_temp=29
+            +15s326ms (3) 100 current=-179 ap_temp=27
+            +23s889ms (2) 100 stats=0:"battery-state"
+            +23s913ms (7) 100 status=charging plug=usb temp=274 volt=4279 misc_event=0x10000 online=4 current_event=0x0 txshare_event=0x0 +plugged +usb_data stats=0:"get-stats"
+            +24s312ms (2) 100 -top=u0a141:"com.sec.android.app.launcher"
+            +24s338ms (2) 100 +top=1000:"com.samsung.android.MtpApplication"
+            +25s389ms (3) 100 current=-179 ap_temp=28
+            +26s605ms (2) 100 -top=1000:"com.samsung.android.MtpApplication"
+            +26s605ms (2) 100 +top=u0a141:"com.sec.android.app.launcher"
+            +33s960ms (2) 100 volt=4317 +charging
+            +35s477ms (3) 100 current=-182 ap_temp=28
+            +45s523ms (3) 100 current=-18 ap_temp=27
+            +54s273ms (2) 100 volt=4295
+            +55s584ms (3) 100 current=187 ap_temp=29
+          +1m04s449ms (2) 100 volt=4321
+          +1m05s671ms (3) 100 current=238 ap_temp=27
+          +1m15s717ms (3) 100 current=249 ap_temp=27
+          +1m24s791ms (2) 100 status=full
+         +37m30s176ms (50) RESET:TIME: 2021-02-08-13-08-28
+         +37m30s176ms (2) 100 status=full health=good plug=usb temp=244 volt=4342 current=0 ap_temp=24 -nr_connected -wifi_ap -otg misc_event=0x10000 online=4 current_event=0x0 txshare_event=0x0 charge=3746 modemRailChargemAh=0 wifiRailChargemAh=0 +running +wake_lock +screen +plugged phone_state=off brightness=dim +charging +usb_data +camera top=u0a141:"com.sec.android.app.launcher"
+         +37m30s176ms (2) 100 user=0:"0"
+         +37m30s176ms (2) 100 userfg=0:"0"
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 57
+All UID cpu time reads since the later of device start or stats reset: 272
+UIDs removed since the later of device start or stats reset: 0
